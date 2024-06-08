@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.lates-match-container {
+  background-color: #0f172a;
+  display: flex;
+  color: #ffffff;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  margin-top: 10px;
+}

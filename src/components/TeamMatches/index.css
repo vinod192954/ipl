@@ -1,0 +1,52 @@
+/* Write your CSS here */
+* {
+  color: #ffffff;
+}
+.main-heading {
+  color: #13418b;
+  font-size: 80px;
+}
+
+.RCBcontainer {
+  background-color: #d91c1f;
+  padding: 20px;
+}
+.KKRcontainer {
+  background-color: #5755a7;
+
+  padding: 20px;
+}
+.CSKcontainer {
+  background-color: #f7db00;
+  padding: 20px;
+}
+.KXPcontainer {
+  background-color: #d91c1f;
+
+  padding: 20px;
+}
+.RRcontainer {
+  background-color: #13418b;
+ 
+  padding: 20px;
+}
+.MIcontainer {
+  background-color: #4f5db0;
+  padding: 20px;
+}
+.SHcontainer {
+  background-color: #f26d22;
+
+  padding: 20px;
+}
+.DCcontainer {
+  background-color: #4f5db0;
+  padding: 20px;
+}
+.matches-list {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
